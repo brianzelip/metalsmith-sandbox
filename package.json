@@ -1,0 +1,7 @@
+{
+  "name": "metalsmith-sandbox-1",
+  "version": "0.0.1",
+  "dependencies": {
+    "metalsmith": "^2.3.0"
+  }
+}
